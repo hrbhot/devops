@@ -1,4 +1,4 @@
-Devops sehll，dockerfile, docker-compose.yml 
+Devops shell，dockerfile, docker-compose.yml 
 
 
 
